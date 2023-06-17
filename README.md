@@ -22,12 +22,6 @@
   <img src="./figures/halfcheetah.jpg" width="600"/>  
 </div>
 
-
-# Ablation study of sampling size on clustring buffer
-<div align=center>
-  <img src="./figures/ant_size.jpg" width="600"/>
-</div>
-
 # Overall 
 <div align=center>
  <img src="./figures/icassp_revised.png" width="1000"/>
